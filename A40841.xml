@@ -1,0 +1,665 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The famous and renowned histor[y] of Valentine and Orso[n] sons to the famous and renowned Emperour of Constantinop[le] containing their marvelous adventures in love and [...]</title>
+            <title>Valentin et Orson. English. Abridgments.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40841</idno>
+            <idno type="STC">Wing F361B</idno>
+            <idno type="STC">ESTC R215035</idno>
+            <idno type="EEBO-CITATION">99827032</idno>
+            <idno type="PROQUEST">99827032</idno>
+            <idno type="VID">31444</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40841)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31444)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1884:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The famous and renowned histor[y] of Valentine and Orso[n] sons to the famous and renowned Emperour of Constantinop[le] containing their marvelous adventures in love and [...]</title>
+                  <title>Valentin et Orson. English. Abridgments.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Newly printed and abbreviated for the benefit and [..]ation of young men and maids, whose impatience will [..]fer to read the larger volume, &amp;c.</edition>
+               </editionStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.O. for C. Bates, at the Sun in Bible in [..,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of the original 15th century French prose romance.</note>
+                  <note>Place of publication from and date conjectured by Wing, which estimates 1690-1700 as publication date.</note>
+                  <note>Title page woodcut.</note>
+                  <note>Running title reads: The history of Valentine and Orson.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31444:1"/>
+            <p>The Famous and Renowned HISTORY OF <hi>Valentine and Orſon</hi> SONS to the Famous and Renowned Emperour of Conſtantinople Containing their <hi>Marvelous Adventures in Love and</hi> Arms</p>
+            <p>Newly Printed and Abbreviated for the Benefit and <gap reason="illegible" resp="#MURP" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ation of young Men and Maids, whoſe Impatience will <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fer to read the larger Volume, <hi>&amp;c.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a knight on horseback leading a male prisoner by a rope tied around his wrists</figDesc>
+            </figure>
+            <p>Printed by <hi>W. O.</hi> for <hi>C. Bates,</hi> at the Sun and Bible in <hi>P<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <pb facs="tcp:31444:2"/>
+            <pb facs="tcp:31444:2"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:31444:3"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of a king with two babies in the woods with a bear, a horse and a female figure</figDesc>
+                  <p>pepin</p>
+                  <p>orson</p>
+                  <p>Valentin</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:31444:3"/>
+            <head>The Hiſtory of <hi>Valentine</hi> a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>Chap.</hi> I. How King <hi>Pepin</hi> gave his Siſter <hi>Belliſant</hi> in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to <hi>Alexander,</hi> Emperour of <hi>Conſtantinople;</hi> and how <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Prieſt made Love to her, and the Miſery that enſued ther<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and of the Birth of <hi>Valentine</hi> and <hi>Orſon.</hi>
+               </head>
+               <p>IN former time reigned a potent and wiſe King in <hi>France,</hi> wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> had a fair and virtuous Siſter, having in her all the perfecti<g ref="char:EOLhyphen"/>ons of Nature; this Lady was nam'd <hi>Belliſant,</hi> the fame of her running thro many Countries, at laſt fame ſpread it felf in<g ref="char:EOLhyphen"/>to the ears of <hi>Alexander,</hi> Emperour of <hi>Conſtantinople,</hi> who being ſtriken in love, with the fame of her beauty, ſhipp d himſelf, with his Train of Nobles, for the Kingdom of <hi>France,</hi> (renowned at that time thro the World;) having a proſperous gale he ſoon lan<g ref="char:EOLhyphen"/>ded, and journy'd to the Court, and ſhortly after his arrival, he declares the cauſe: King <hi>Pepin</hi> knowing this, prepared great tri<g ref="char:EOLhyphen"/>umphs for the celebrating this noble contract: great joy there was on every ſide, being nobly entertained in great honour, as be<g ref="char:EOLhyphen"/>fitted their eſtates? as ſoon as the marriage-feaſt was done pre<g ref="char:EOLunhyphen"/>paration was made for their departing to <hi>Conſtantinople</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not long after the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> arrived, and were received with <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> nor and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou would think it now <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> two <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> tur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb facs="tcp:31444:4"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er to ſpeak, and preſently baniſh'd her his Court and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ompanied only with one Man called <hi>Blandiman,</hi> theſe <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight and day, till they come to the Kingdom of <hi>France</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entations began of freſh, not daring to appear before <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her, King <hi>Pepin,</hi> being under this diſgrace; and being <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d near <hi>Paris,</hi> ſhe fell in travel, and her Man rode for a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, but before he could return, ſhe was delivered of two <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>s to her great joy; but ſee what followeth, a bear croſſing the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood, violently takes one of the Babes and bears it to her den; the Empreſs lays the other down, ond runs after the bear, but all in vain, at laſt, being tired out, ſhe fainting to the ground; in the mean time King <hi>Pepin,</hi> being a hunting, comes by where the Child lay, and ſeeing it to be a pretty Babe ſends it to his Court<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be brought up nobly. <hi>Blandiman</hi> being returned, and finding the Empreſs in that condition, recovers her, but ſhe fills the air with cries and lamentations, and traveſting on they were taken by Giant <hi>Ferrgaus,</hi> and impriſon'd, where we'll leave 'em, and ſee what became of her two Sons.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>Chap.</hi> II. How <hi>Valentine</hi> being brought up in King <hi>Pepin</hi>'s Court, increaſed daily in Strength and Vertues; and how <hi>Or<g ref="char:EOLhyphen"/>ſon</hi> became a Wild-man in the Wilderneſs among the Beaſts.</head>
+               <p>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as before I rehearſed, having ſent the Child, <hi>Va<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Paris</hi> to be brought up, at long <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n apt<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wn <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb facs="tcp:31444:4"/> ſomuch that ſhe gave it ſock, which nouriſhment caus'd th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Child to grow hairy rough like a beaſt, and exceeding ſtrong, and he ſoon began to run up and down the woods, fighting with, and devouring other beaſts, and grew extreem <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rte, inſomuch that no Man dur<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> approach near where this Wild-man was; his renown ſpread<g ref="char:EOLhyphen"/>ing itſelf in a ſmall time thro all the Kingdom of <hi>France,</hi> that all the Country round about chaſed and hunted him; he feared no wea<g ref="char:EOLhyphen"/>pons but ſnapped them aſunder: he wore no garments, nor had any kind of ſpeech. In the mean time <hi>Valentine</hi> increaſed in knowledge and wiſdom exceedingly, and was greatly beloved of all the Court; and now the Squire that had the charge of him, pre<g ref="char:EOLhyphen"/>ſented him before the King, whom the King placed with his own Daughter <hi>Eglantine,</hi> which cauſed many murmurings againſt his greatneſs, ſaying, 'That at beſt he was but a Baſtard. In the mean time it chanc'd that there came into <hi>Orleans</hi> divers Imbaſ<g ref="char:EOLhyphen"/>ſadors from the Pope. demanding <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id againſt the Sarazens, who had lately taken the City of <hi>Rome.</hi> King <hi>Pepin</hi> underſtanding this, prepares a great Army to make reſiſtance againſt them. Amongſt the reſt, <hi>Valentine</hi> was made a Chief Commander; when they were come to <hi>Rome,</hi> King <hi>Pepin</hi> deſir'd battle, and fain would underſtand the ſtate of the City; and it was told him, that the Admiral of the Saraz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns had ſurprized the City, and put <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll without the ſword. The King lays cloſe ſiege to the City, and calls h s Barons and Officers of his Army, deſiring them to find out a Man to bear a letter to the Admiral, which none did d<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> to undertake; <hi>Valantine</hi> ſtepped before the King, and ſaid, Mighty, Soveraign. <q rend="inline">If you be pleas'd, I will carry the lette<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and deliver the meſſage, and ſhall not fear to ſpeak to the proud Pagan Ad<g ref="char:EOLhyphen"/>miral, and to the whole Hoſt of Pagans, were their number twice as many as they be.</q> The King hearing this, was exceeding joy<g ref="char:EOLhyphen"/>ful, marvelling at his courage; whereupon he drew a letter of de<g ref="char:EOLhyphen"/>fiance, and gave to him, who took his leave of the King, and went to the City, and came to the place where the Admiral lay, and ſalu<g ref="char:EOLhyphen"/>ted him thus, <q rend="inline">The Gods preſerve the Noble and Puiſſant King <hi>Pepin,</hi> my Dread Soveraign, and <hi>Mahomet,</hi> whom thou ſerve<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſave and defend thee, Renowned Admiral. When <hi>Valentine</hi> had thus ſaid, the Admiral rouſed himſelf in his chair, and with a frown reply'd, 'Meſſenger, return, and get thee out of my ſight, and ſay unto King <hi>Pepin,</hi> I will him either to renounce his faith, and believe in <hi>Mohomet,</hi> or elſe let him look to receive no o<g ref="char:EOLhyphen"/>ther ſentence than death; and get thee gone, make no longer ſtay,
+<pb facs="tcp:31444:5"/> for my heart is inraged againſt thee.</q> But his high words no<g ref="char:EOLhyphen"/>thing daunted our Warrior, but he mildly ſaid, <q rend="inline">High and Mighty Admiral, do not imagine that by pride and preſumtion, I come before you, until you hear the cauſe thereof.</q> Then ſaid the Ad<g ref="char:EOLhyphen"/>miral, <q rend="inline">Say on, <hi>Valentine</hi> reply'd, I was accuſed before the King for a Coward, and that ſince I come I would have run from Camp; for which he vowed to ſmite off my head: I hearing this, ſought rather to ſave my life, man to loſe both life and ho<g ref="char:EOLhyphen"/>nour, and therefore I gave out, That I would come and deſire you on the King's behalf, to break two ſpears with you to try your valour, and win my loſt honour; therefore I deſire you would grant my requeſt, otherwiſe I dare not return.</q> The Admiral hearing this cunning tale, ſaid, <q rend="inline">I ſwear by <hi>Mahomet,</hi> thou ſhalt not be refuſed; and to the end the French may ſee it. I'll ordain the juſt without the City.</q> 
+                  <hi>Valentine</hi> fell down and kiſſed his hand, deſiring a Confeſſor, telling him he was afraid he ſhould be ſlain, which he granted, and preſently ſent him a Chriſtian Prieſt, when <hi>Valentine</hi> tells his plot how to ſurprize the City, that when <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Pagans came forth to ſee the juſts he ſhould cauſe the Chriſti<g ref="char:EOLhyphen"/>ans to ſurprize the Cowards, and ſhut the gates, which was after<g ref="char:EOLhyphen"/>wards, effected. The time being come, and the Champions arm'd they took their way towards the chief gate of the City, on that ſide King <hi>Pepin</hi> lay; they being entred the firſt, there was a great noiſe in the <hi>French</hi> Camp for joy, which caus'd the Pagans to iſſue <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th to behold the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſts; in the mean time the Fryer having plaid his part in the City, the Chriſtians poſſeſs the gates, ſo that no entrance could be expected: all things being ready, each of them va<g ref="char:EOLhyphen"/>liantly prepares to encounter, and each touching his ſpear, the firſt courſe they ſhiver'd them all in pieces, each admiring the o<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r's ſtrength, then making a ſecond, <hi>Valentine</hi> got the better, for which his <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> charged againſt the Admiral's breaſt, he gave him ſuch a ſtroak that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> run his ſpear quite thro his body, ſo he fell dead from his ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe; which cauſed the Pagans to run on <hi>Valentine</hi> with naked ſwords to kiſt him, which had been effected, had not the King ſuddenly with his H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt ruſh'd into his aid: Here our noble Hero, Mirror of Chivalry, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r ſaved the life of the King by hor<g ref="char:EOLhyphen"/>ſing him again: At length the Chriſtians prevailing, the Pagans began to retire to the City, which finding ſhut, there they miſera<g ref="char:EOLhyphen"/>bly periſh'd by the ſword: and the City was reduc'd to his former obedience; and King <hi>Pepin</hi> was with much magnificence crown'd Emperour of <hi>Rome,</hi> to the great honour of <hi>Valentine,</hi> who beha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> well that day.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb facs="tcp:31444:5"/>
+               <head>
+                  <hi>Chap.</hi> III. How <hi>Valentine,</hi> after his return from <hi>Rome,</hi> re<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> to the Forreſt of <hi>Orleance,</hi> and there Conquered <hi>Orſon,</hi> and brought him with him to <hi>Orleance;</hi> and how <hi>Haufry</hi> and <hi>Henry,</hi> Sons to King <hi>Pepin,</hi> took Counſel how to take away <hi>Valentine</hi>'s Life, and what enſued thereupon.</head>
+               <p>KIng <hi>Pepin</hi> after he was return'd from <hi>Rome,</hi> every day more and more ſhewed his love to <hi>Valentine,</hi> to the great grief of <hi>Houfry</hi> and <hi>Henry,</hi> Baſtard-ſons to the King, and in their hearts they did daily hatch miſchief: and they hearing of the miſchief the Wild-man did in the forreſt, and the daily complaints made of his great injuries, endeavour'd to perſwade <hi>Valentine</hi> to undertake this conqueſt, who being of an heroick ſpirit, and undaunted va<g ref="char:EOLunhyphen"/>lour, was always wiſling to ruſh into any hazard wherein he might win honor: At length he ſets a reſolution to go and fight the Wild-man, and either to die or conquer him, chuſing rather to die in ho<g ref="char:EOLunhyphen"/>nour, than live in diſgrace: which reſolution much <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>led the King, and he grew angry at his two Sons, who had laid this plo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to take away the life of <hi>Valentine,</hi> and did diſſwade him as much as he could from it; but it was in vain, for go he will and ſo he ſets forward on his journy, accompanied only with his Page; and ſo he rode one whole day in the forreſt ſeeking the Wild man, but could not find him ſo he lay down and refreſhed himſelf till morning: As ſoon as day appeared, he eſpyed his Brother <hi>Orſon</hi> running to him, and ſeeing <hi>Valentine</hi>'s horſe ſtand ty'd, he fell furiouſly clawing him, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch the horſe feeling, began to fling and kick; <hi>Valentine</hi> being on a tree noted the Wild-man's terrible ſhape, and began to be timerous; In the mean time the Wild-man had near ſlain his horſe, which <hi>Valentine</hi> perceiving, cries out to the Wild man, <q rend="inline">Save my horſe, and ſtay till I come down, and thou ſhalt have fight<g ref="char:EOLhyphen"/>ing enough with me.</q> With that the Wild-man eſpied him and made ſigns as if he would tear him to pleces; he drawing his ſword leap'd down cloſe by him, and ſmote at him with his ſword, which he leaping aſide eſcaped, and preſently cotching <hi>Va<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>entine,</hi> throws him to the ground, which cauſed him to look for nothing but death, feeling the ſtrength of the Wild-man to be ſo great; being thus on the ground, <hi>Valentine</hi> try'd to get <hi>Orſon</hi> under him, but an in va<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n; at length drew pocket-dagger out and ſmote him on the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de that the blood ran out <hi>Orſon</hi> ſeeing himſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wounded gave ſuch a ſecreeth that all the wood ſounded therewith, and running a,
+<pb facs="tcp:31444:6"/> gain on him threw him to the groud again, and wounded him in di<g ref="char:EOLhyphen"/>vers places; but <hi>Valentine</hi> recovering, laid about him very fiercely, and brought the Wild man to his obedience, then tying his hands to his horſe-tail, he rode towards <hi>Orleance;</hi> and as he came the People run away for fear, and being to lodge in a little Town that Night, the Inhabitants ſeeing the Wild-man with him, run a<g ref="char:EOLhyphen"/>way: they took up their lodging at one of the beſt houſes in the Town, where they went into the wine cellar, and <hi>Orſon</hi> drinking too much become drunk; morning being come, he was bound as before, and ſo they rode, to <hi>Orleance,</hi> where bring come, the People ſhut up their doors for fear; at length tydings came to King <hi>Pepin,</hi> that <hi>Valentine</hi> had conquer'd the Wild man, the King was greatly aſtoniſhed, and ſaid, <q rend="inline">Ah <hi>Valentine!</hi> my Child in a happy hour thou was born, bleſſed be the Father that got thee, and the Mother that bore thee.</q> When <hi>Valentine</hi> came to the Palace gates, the Porter eſpying <hi>Orſon,</hi> ſhut the gates, till <hi>Va<g ref="char:EOLhyphen"/>latine</hi> ſaid to him, <q rend="inline">Fear not, but go tell the King, I'll ſhield him and the Court from the fury of the Wild-man.</q> The King com<g ref="char:EOLhyphen"/>manded them to enter the Palace: Then <hi>Valentine</hi> took <hi>Orſon</hi> and led him into the Court where the King and his Nobles were, among the reſt were <hi>Haufry</hi> and <hi>Henry,</hi> and ſeeing <hi>Valentine</hi> more honoured than before grew enraged, and therefore reſolv'd to lay a plot to cut him off, and underſtanding that <hi>Valentine</hi> was gone to their Siſter <hi>Eglantine</hi>'s lodgings to make ſport with <hi>Orſon,</hi> they thought it fit to kill him there, and inform the King they found him in her bed; ſo they preſently ruſhed in with their ſwords drawn, and calling him Traytor ſmote at him, and wounded him in the face: <hi>Orſon</hi> perceiving that, leapt to them, and cruſhed them between his Arms, and then ſtruck them to the ground, and had not the Ladies appeaſed the uproar, they had there been ſlain. <hi>Haufry</hi> and <hi>Henry</hi> mad with rage that there purpoſe did not take effect, runs to the King, making a grevious complaint againſt them. The King ſends for <hi>Valentine,</hi> and hearing the truth, bid him be<g ref="char:EOLhyphen"/>ware of <hi>Haufry</hi> and <hi>Henry,</hi> and ſo diſſmiſſed him. This plot not taking, they reſolve on another far more dangerous than the for<g ref="char:EOLhyphen"/>mer, they joyn to their aid their Coſin <hi>Grigar,</hi> who was to lye in ambuſe with one hundred Men at Arms to take <hi>Valentine</hi> as he rid that way, and when they'd taken him, to carry him to a ſtrong Caſtle in the forreſt, and there impriſon him; ſo it came to paſs that as <hi>Valentine,</hi> with <hi>Orſon</hi> running by him, was riding that way where the Ambuſh lay, out ſtept <hi>Grigar</hi> their Captain, and</p>
+               <gap reason="missing" resp="#OXF" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:31444:6"/>
+               <p>Our Warriour conſidering how he was encompaſſed with his E<g ref="char:EOLhyphen"/>nemies, was reſolved to ſell his life at a dear rate, and he that ſtood neareſt him taſted firſt of his been ſword; the firſt that he en<g ref="char:EOLhyphen"/>countered he cleft down to his teeth, the next he cut aſunder in the midſt; in the mean while <hi>Orſon</hi> was not idle, but with his rough paws tore their fleſh from their bodies, and bit them to pieces with his teeth, and thus they continued fighting, killing and wound<g ref="char:EOLhyphen"/>ing many, but all in vain, the number being ſo many, and being tired with the preſs that came upon him, he was taken and carried away, do all that <hi>Orſon</hi> could, who follow'd <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to the Caſtle where they impriſoned him, and then ran again to the Court of King <hi>Pepin,</hi> and into the midſt of the hall, where the King and his Nobles were at dinner and run about the hall makeing ſtrange lamentations, and knocking his breaſt in a moſt hideous end fear<g ref="char:EOLhyphen"/>ful manner, which did drive the King into a thouſand fears; at length <hi>Orſon</hi> looking round the table, eſpied the Traytor <hi>Grigar,</hi> who hung his head in his boſom, but <hi>Orſon</hi> ſeeing him, run furi<g ref="char:EOLhyphen"/>ouſly upon him, and gave him ſuch a grievious ſtroke that ſmote off one of his ears, and laid him on his face, and put out one of his eyes: <hi>Grigar</hi> feeling his wounds, began to cry out for help, at laſt a valiant Prince releued him, and brought <hi>Orſon</hi> before the King, deſiring he might be put to death: but <hi>Orſon</hi> being before he the King, made ſighs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oat <hi>Valentine</hi> was taken in the Forreſt he and demanded the combat with <hi>Grigar,</hi> which with the conſent of King and Nobles was granted, between whom was fought a cruel battle, but at length through <hi>Orſon</hi>'s ſtrength, and the juſt<g ref="char:EOLhyphen"/>neſs of his cauſe, he overcame <hi>Grigar,</hi> and he openly confeſſed the treaſon before King <hi>Pepin,</hi> and they preſently ſent and re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſed <hi>Valentine,</hi> to the great joy of the Court, who admired the ſave that <hi>Orſon</hi> bore to him.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb facs="tcp:31444:7"/>
+               <head>
+                  <hi>Chap.</hi> IV. How <hi>Valentine</hi> and <hi>Orſon</hi> travelled to <hi>Aquitain,</hi> to the Relief of the Lady <hi>Fezon;</hi> and how <hi>Orſon</hi> overcame the Green Knight, and how they came to the Caſtle of the Lady <hi>Clerimond,</hi> whereby <hi>Orſon</hi> recover'd his Speech.</head>
+               <p>
+                  <hi>VAlentine</hi> and <hi>Orſon</hi> being returned with King <hi>Pepin</hi> into <hi>Or<g ref="char:EOLhyphen"/>leance,</hi> but being not minded to ſtay there, they reſolved to go to <hi>Aquitan,</hi> to endeavour the delivery of the fair Lady <hi>Fezon,</hi> the Duke's Daughter, whoſe City was cloſely beſieged by a Pagan Knight, call'd, the Green Knight; and this Duke was to bring one to conquer this Green Knight, or elſe he was to take his Daugh<g ref="char:EOLhyphen"/>ter: ſo they took their leave of King <hi>Pepin; Valentine</hi> reſolving not to return till he had found his Parents: Being come to <hi>Aqui<g ref="char:EOLhyphen"/>tain,</hi> People ſtock'd from all parts to behold the unmanly ſhape of <hi>Orſon,</hi> which cauſed <hi>Valentine</hi> to get him an iron-jacket; when they came to the Duke's Palace, he entertain'd them nobily, and ſent for the Green Knight to dine with him, which he accepted, on<g ref="char:EOLhyphen"/>ly that he might have a ſight of the beautiful Lady <hi>Fezon</hi> and he began to ſpeak proud ſpeeches, and told them they ſhould be hanged on a tree, as many of their Fellows had been; which <hi>Valentine</hi> hearing anſwer'd, <q rend="inline">Proud Knight, theſe taunts might have been buried within thy breaſt, for I tell thee, this day is come hither a Knight that ſhall hold thee tack: thou haſt vanquiſhed many, he it is ſhall vanquiſh thee.</q> 
+                  <hi>Orſon</hi> knew <hi>Valentine</hi> ſpoke of him, and knowing this to be the Green Knight who had ſlain ſo many, with a fierce countinance leapt from the table, and taking him a<g ref="char:EOLhyphen"/>bout the middle, threw him with ſuch violence againſt the wall that they thought his neck had been broke; at this action they began to laugh, and ſaid to one another, <q rend="inline">Now is the Knight come that ſhall overcome the Green Knight.</q> 
+                  <hi>Orſon</hi> made ſigns that he would fight him the next day, for the love of the Lady <hi>Fezon:</hi> morning being come, <hi>Valentine</hi> armed him with his own arms, and ſo he departed to combat, and made ſigns that he would bring the Knight with him dead or alive: It was not long e're <hi>Orſon</hi> came to the tent of the Green Knight and ſmote the top with his ſpear in defiance: he taking this in diſdain, ſwore by <hi>Mahomet,</hi> he would abate his pride e're the ſun went down; and then couching his ſpear in his reſt, he enter'd the field againſt <hi>Orſon,</hi> and encoun<g ref="char:EOLhyphen"/>tred with ſuch force, that both Men and horſes fell to the ground, but lightly recovering their feet, drew their ſwords, and laid at
+<pb facs="tcp:31444:7"/> each other fiercely; the Green Knight parted <hi>Orſon</hi>'s ſhield and wounded him on the ſhoulder; he finding his blood run down, was far more fierce than before, and at laſt with his ſword took the Gi<g ref="char:EOLhyphen"/>ant ſuch a pat on his head, that he cut away a piece, and wounded him in the arm; but he had a medicine that if he but touched the wound with it, it healed. <hi>Orſon</hi> perceiving this, threw away his arms, and run furiouſly upon him, and caſt him to the earth, and held him under him, which made the Knight yield to his mercy; yet <hi>Orſon</hi> would have taken away his life, had not <hi>Valentine</hi> reſcu<g ref="char:EOLhyphen"/>ed him: The Green Knight inplored pardon for his former actions, and obt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ined it, and was carried into <hi>Aquitain,</hi> and there was baptized. He declared to <hi>Valentine,</hi> he that overcame him could be no leſs then the Son of a King or Emperour, and muſt be one that never ſuck'd any Woman; and that it ſhould be further prov'd by his Siſter <hi>Clerimond,</hi> who had a brazen-head that could reſolve all queſtions that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he asked it. To return to the Lady <hi>Fezon,</hi> who was in <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Orſon,</hi> being his by conqueſt, deſir'd to be marry'd, <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> not conſent to till he ſhould obtain his ſpeech, and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents. <hi>Valentine</hi> remembring the Green Knight's <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> reſolv'd to go ſee the brozen-head, being already in love <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Lady <hi>Clerimond,</hi> by the commendations he heard of her beauty: He declar'd this to the Green Knight, who preſently gave him his ring, as a token that he might be admitted into the Caſtle, which was impoſſible to be conquer'd. The Duke hearing they would depart, made <hi>Orſon</hi> ſwear to marry his Daughter at his re<g ref="char:EOLhyphen"/>turn. <hi>Valentine</hi> and <hi>Orſon</hi> the day following ſet forward on their journy: and the Green Knight went to ſerve King <hi>Pepin.</hi> In the mean time <hi>Blandiman,</hi> the Servant of the ſorrowful Lady <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>liſant,</hi> had eſcaped out of <hi>Ferragus</hi>'s Caſtle, and travelled to the Court of <hi>France,</hi> where he declar'd the ſorrowful eſtate of his La<g ref="char:EOLhyphen"/>dy, and cauſe of her ſorrows, and of the birth of the Children in the forreſt in every particular: which the King hearing, and ta<g ref="char:EOLhyphen"/>king an account of the time and place, found it to fall on that day he took up <hi>Valentine,</hi> and ſo they concluded that them two were her Children, to the great joy of all the Couer: King <hi>Pepin</hi> could not alone hear this great news, but he muſt preſently ſet ſail for <hi>Con<g ref="char:EOLhyphen"/>ſtantinople</hi> to declare it there, to the exceeding comfort of all that heard it. In the mean time, <hi>Valentine</hi> and <hi>Orſon</hi> arrives at the Caſtle of the Lady <hi>Clerimond,</hi> and he made a proffer to enter but was deny'd entrance until he had leave of the Lady: as ſeen as ſhe heard two Strangers were there, ſhe viewed them out at a win<g ref="char:EOLhyphen"/>dow,
+<pb facs="tcp:31444:8"/> ſeeing <hi>Valentine,</hi> began to be in love with him, and ſhe en<g ref="char:EOLhyphen"/>quires if they had any token from her Brother; <hi>Valentine</hi> ſhewing the ring was admitted into her preſence, whoſe beauty he greatly admired; deſirous therefore to break ſilence, being a wonder to each others eyes, <hi>Valentine</hi> began, <q rend="inline">Divine Paragon of Beauty, I was driven hither by the report of a brazen-head that remains in your Caſtle that can tell wonders, therefore if it pleaſe you to admit us to the ſight, we ſhall remain your Bond ſervants in all re<g ref="char:EOLhyphen"/>ſpects. </q> 
+                  <hi>Clerimond</hi> granted their requeſt, and brought 'em where the head was which thus began to ſpeak <q rend="inline">Thou famous Knight of Royal Parentage, thou art call'd <hi>Valentine the Valiant,</hi> thou art the Man that ought to marry the Lady <hi>Clerimond,</hi> thou art Son to the Emperour of <hi>Greece,</hi> and thy Mother was in <hi>Portu<g ref="char:EOLhyphen"/>gal,</hi> in the Caſtle of <hi>Ferragus,</hi> who hath had the keeping of her twenty years: the Wild-man who accompaineth thee, is thy Bro<g ref="char:EOLhyphen"/>ther, born in the Forreſt of <hi>Orleance,</hi> and was nouriſhed by a bear, and be ſhall not have the uſe of his tongue till a thread be cut under it.</q> Now thou art come, my time is at a period; and ſo bowed down and never ſpoke more. <hi>Valentine</hi> immediately embra<g ref="char:EOLhyphen"/>ced his Brother, and preſently cut the thread under his tongue, and he ſpoke: <hi>Valentine</hi> receives <hi>Clerimond</hi> as his eſopuſed Lady, and ſhe him as her Lord, but defers the marriage till he had deliver'd his Mother, and ſeen his Royal Father and ſhe ſetled in <hi>Conſtan<g ref="char:EOLhyphen"/>tionple.</hi>
+               </p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>Chap.</hi> V. How <hi>Patolet,</hi> an Enchanter, gave <hi>Ferragus Cleri<g ref="char:EOLhyphen"/>mond's</hi> Brother, the knowledge of all that paſt, of the Delive<g ref="char:EOLhyphen"/>ry of the Lady <hi>Belliſant:</hi> how <hi>Valentine</hi> and <hi>Orſon</hi> were im<g ref="char:EOLhyphen"/>priſoned by <hi>Farergus,</hi> and eſcaped again, and <hi>Ferragus</hi>'s Reſo<g ref="char:EOLhyphen"/>lution thereupon.</head>
+               <p>IN the mean time while theſe Lovers admired one another, is little Dwarf that <hi>Clerimond</hi> kept was an Inchanter, and he gave <hi>Ferragus</hi> an account of all their proceeding, in the Caſtle of <hi>Clerimond,</hi> for he could in a day's time come and go, for by his art he had made a wooden horſe, with a pin at the head, and which way he turned the pin, and the horſe mounting in the air, he could be at the place deſign'd immediately; when <hi>Ferragus</hi> heard <hi>Pacol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</hi>'s cal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> he grew exceedingly enrag'd at his Siſter for granting leave to a Chriſtian Knight, ſwearing by the Gods to be revenged, on them both, After <hi>Pacolet</hi>'s return, <hi>Clerimond</hi> commanded him to go
+<pb facs="tcp:31444:8"/> and ſee it <hi>Belliſant, Valentine</hi>'s Mother, were there or no which he did, and brought word ſhe was in health. In the mean time <hi>Ferragus</hi> provides a Fleet, and came to his Siſter's Caſtle, and was very pleaſant with <hi>Valentine</hi> and <hi>Orſon,</hi> and deſires them and his Siſter to accompany him to <hi>Portugal,</hi> there to be married which they did, but when they were upon the Sea, in the dead of the night, he cauſed them to be took out of their beds, bound 'em and caſt them into a dungeon, and when they came to <hi>Portugal,</hi> they were put into a Caſtle, and there left to bewail their <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>: <q rend="inline">A<g ref="char:EOLunhyphen"/>las, ſaid <hi>Valentine,</hi> how ſoon are our ioys blaſted, and mirth turn<g ref="char:EOLunhyphen"/>ed into mourning.</q> 
+                  <hi>Belliſant</hi> hearing two Chriſtian Knights were in the Caſtle, left her chamber, and came to have a ſight of them and to ask them whence they were: but <hi>Ferragus,</hi> being enraged, would not ſuffer her; <hi>Clerimond</hi> had not long been in the Caſtle, but ſhe eſp'yd <hi>Valentine</hi>'s Mother, and being private toge<g ref="char:EOLunhyphen"/>ther, ſhe declar'd to her how her Sons were Priſoners there, <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> for joy to hear they were alive. In the mean time <hi>Pacolet</hi> comforted them, and told them, he would ſet <hi>Valentine</hi> and Or<g ref="char:EOLhyphen"/>ſon at liberty, and them too; and he was as good as his <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, but as ſoon as he ſaw <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> oppertunity, by his art he opened all the doors and came where the Priſoners lay, who hearing the door opened ex<g ref="char:EOLunhyphen"/>pected nothing but <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Pacolet</hi> ſaid, <q rend="inline">My Lords, fear not, I am come <gap reason="illegible" resp="#MURP" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </q> So leaving them where <hi>Clerimond</hi> and <hi>Belliſant</hi> were, <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> before their Mother craving her bleſſing; but <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> away: but <hi>Pacolet</hi> ſeeing no time to <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and they preſently arrived at <hi>Clerimon</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> they had refreſh'd themſelves, they journey'd toward Aquitain But let us return to <hi>Ferragus,</hi> to ſee how <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the Iaylor came to unlock the doors and found them <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and looking found his Priſo<g ref="char:EOLhyphen"/>ners <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> told <hi>Ferragus,</hi> who enraged thereat, re<g ref="char:EOLhyphen"/>ſolves to <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Caſtle <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> aſ<g ref="char:EOLunhyphen"/>ſembled his Men of war declaring his <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> mean <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Valentine</hi> and <hi>Orſon,</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> alſo <hi>Pacolet,</hi> were ſafe arrived at the <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> they where received with much <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> accompliſh'd <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Fezon</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Duke of <hi>Aquitain,</hi> ſo both their <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Ferragus</hi> who not <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, for when <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Caſtle, he ſailed to <hi>Aquitain</hi> with <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> revenge for theſe <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> upon <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as a <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb facs="tcp:31444:9"/> about twelve foot high, and much feared by all his Neighbours, ha<g ref="char:EOLhyphen"/>ving a proſperous gale, he ſ on landed his army, King <hi>Trompart</hi> being with him to aid him, accompanied with the Inchanter <hi>Adra<g ref="char:EOLhyphen"/>main,</hi> who was to further <hi>Trompart</hi>'s deſign in getting the Lady <hi>Clerimond,</hi> intending with the conſent of <hi>Ferragus</hi> to take her to Wife.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>
+                  <hi>Chap.</hi> VI. The admirable Feats of Arms performed by <hi>Valentine</hi> and <hi>Orſon,</hi> in a famous Battle before <hi>Aquitain,</hi> and the Suc<g ref="char:EOLhyphen"/>ceſs thereof; and how <hi>Valentine</hi> and <hi>Pacolet</hi> went to <hi>Conſtan<g ref="char:EOLhyphen"/>tinople</hi> to help his Father and Uncle, who were beſieged by the Sarazens.</head>
+               <p>THe couragious Duke of <hi>Aquitain</hi> hearing of the landing of his potent Enemy, ſuddenly prepared great Forces to reſiſt him, to the great content of <hi>Valentine</hi> and <hi>Orſon;</hi> and at laſt ſeeing their Town beſieged by <hi>Ferragus,</hi> they iſſued out with their Army reſolving to give them preſent battle: Here you might ſee the rare exploits perform'd by gallant Warriors, <hi>Valentine</hi> and <hi>Orſon</hi> work<g ref="char:EOLhyphen"/>ing wonders whereſoever they came, making every one give way to their keen ſwords. Here the Giant <hi>Ferragus</hi> triumphed over his Enemies, intending a final conqueſt. The valiant Duke of <hi>Aquitain</hi> cleared their ranks, and fought manfully, but venturing too far in the preſs, was taken Priſoner and carried to <hi>Ferra<g ref="char:EOLhyphen"/>gus</hi>'s Tent; but <hi>Orſon,</hi> accompained with <hi>Pacolet,</hi> ruſh'd through the Enemy, reſolving to free the Duke or die on the ſpot, came at laſt without the Camp, putting on Pagans ſhields, went into <hi>Fer<g ref="char:EOLhyphen"/>ragus</hi>'s Tent; and brought the Duke from thence, and plac'd him in the head of his Army, who ſeeing him releaſed, fought like de<g ref="char:EOLhyphen"/>ſperate Men, and made havock of their Enemies crying Long live the Duke of <hi>Aquitain;</hi> the Pagans hearing this, and knowing him releaſed, were diſcomfitted and fled to their ſhips. As ſoon as this battle was ended, <hi>Valentine</hi> and <hi>Pacolet</hi> reſolve to go to <hi>Conſtanti<g ref="char:EOLhyphen"/>nople</hi> to aid his Father, who was beſieged by the Sarazens: <hi>Pacolet</hi> made ready his wooden horſe, and the ſame night they arrived at <hi>Conſtantinople,</hi> in the great hall before the Emperour who ſat at ſupper with King <hi>Pepi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> who came to aid him againſt the Sarazens, and the Green Knight was preſent, who eſpying <hi>Valen<g ref="char:EOLhyphen"/>tine</hi> knew him: King <hi>Pepin</hi> ſaid, <q rend="inline">Behold here one of your own Blood, a valliant Knight, and your natural Son.</q> The Em<g ref="char:EOLhyphen"/>perour preſently ran and kiſſed him; and <hi>Valentine</hi> declared
+<pb facs="tcp:31444:9"/> how and where he left his Mother, the Empreſs <hi>Belliſant,</hi> and his Brother <hi>Orſon,</hi> and all his adventures ſince he departed from the Court of King <hi>Pepin,</hi> to the delight of all that heard him, and joy of the whole City, who made bonefires for his return: when the Sarazens heard theſe ſhouts and revellings in the City, they were fore afraid, and put themſelves in readineſs. <hi>Valentine</hi> and the Green Knight were greately moved to ſee the City begirt with ar<g ref="char:EOLhyphen"/>med Men, therefore they armed themſelves, reſolving to try their fortune, iſſuing forth with two thouſand Men, ſeiz'd on two hun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed wagons laden with victuals and ſent them into the City: the Souldan vexed at this loſs, got between <hi>Valentine</hi> and the City, in<g ref="char:EOLhyphen"/>tending to take them Priſoners: King <hi>Pepin</hi> ſeeing their intent, iſſued out of the Town with his Army, and ſee upon the Sarazens, and there was fought a cruel battle, there King <hi>Pepin</hi> bore the Souldan to the earth: but <hi>Valentine</hi> and the Green Knight being in the middle of the Enemy, wearied with labour, were at laſt taken Priſoners, and ſent to the Souldan's Tent, to the great grief of the Emperour and King <hi>Pepin,</hi> who were forced to retreat. After this the Souldan came to his Tent, and cauſed the Green Knight and <hi>Valentine</hi> to come before him, and uſing to <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>m proud words, vow'd they ſhould never eſcape with life: he order'd them to be hanged in the ſight of the City; which ſentence <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auſed great fear to ſeize on them: but <hi>Pacolet</hi> being in the City, underſtanding the ſad event, and ſeeing how heavenly King <hi>Pepin</hi> and the Emperour took their loſs, took his wooden horſe and depar<g ref="char:EOLhyphen"/>ted to the Souldan's Hoſt, and came juſt as <hi>Valentine</hi> and the Green Knight were going to execution; <hi>Pacolet</hi> entering the Tent was known by the Souldan, who calling him aſide ſaid, 'What news from <hi>Portugal? Pacolet</hi> replyed, 'The beſt that ever you heard from the fair Wiſe of <hi>Ferragus.</hi> The Souldan hearing this news from <hi>Ferragu</hi> 's Wife whom he dearly loved for joy reprieved the Priſoners till morning, and then went with <hi>Pacolet</hi> to hear the particulers; <hi>Pacolet</hi> i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a ſerious manner relates to him how <hi>Ferra<g ref="char:EOLhyphen"/>gus</hi>'s Wife reſolv'd to viſit him that night, her Husband being at <hi>Aqui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ain,</hi> for her heart was on fire with the love of him. At this he was like to leap one of his skin for <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y: ſo <hi>acolet</hi> bid him tarry till <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight, and he'd carry him to her; <hi>Pacolet</hi> remained with him alſo, and then ſet him on his wooden-horſe and departed, and ſet him down in the great hall in <hi>Conſtantinople,</hi> bidding him ſtay till he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame; ſo going again to the Souldan s Army, and charming the Guards, took <hi>Valentine</hi> and the Green Knight on his wooden-horſe,
+<pb facs="tcp:31444:10"/> and ſet them down by the Souldan, to his great aſtoniſh<g ref="char:EOLhyphen"/>ment, knowing then he was betray d who inſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>antly laid hands on him, committing him to priſon till the morrow, and then hang<g ref="char:EOLhyphen"/>ed him in the view of all his Hoſt to their wonder diſcomfiture; and <hi>Valentine</hi> ſuddenly iſſuing out of the City with the whole Army, made havock of the Pagans, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all that made oppoſition, the reſt fled and ſaved their lives The City was again made free without any Enemies to oppoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it, to the unſpeakable joy of the Iuhabitants. The next day <hi>Pacolet</hi> took his journey to <hi>Aquitain,</hi> to bear tydings to the Lady <hi>Clerimond,</hi> the Empreſs <hi>Belliſant,</hi> and <hi>Orſon,</hi> whoſe company the Emperour greatly deſir'd; but while they were preparing for <hi>Conſtantinople, Ferragus</hi> renews his Forces and again beſieges <hi>Aquitain.</hi>
+               </p>
+            </div>
+            <div n="7" type="chapter">
+               <head>Chap. VII. How <hi>Adrimain</hi> couzez'd <hi>Pacolet</hi> of his Horſe; how <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing <hi>Trompart</hi>'s Head was ſmitten off by th King of <hi>Iudia,</hi> with the loſs of the Lady <hi>Clerimond; Pacolet</hi>'s Revenge on <hi>A<g ref="char:EOLhyphen"/>drimain; Ferragus</hi>'s Death; <hi>Belliſant</hi> and <hi>Orion</hi>'s landing at <hi>Conſtantinople,</hi> and other remarkable Paſſages.</head>
+               <p>THere was a cunning Inchanter that came to aſſiſt King <hi>Trom<g ref="char:EOLhyphen"/>part<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> to gain the Lady <hi>Clerimond,</hi> this Fellow come to <hi>Pa<g ref="char:EOLhyphen"/>colet</hi> and ſeigns himſelf his Servant, to do what he ſhall command <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m; <hi>Pacolet</hi> not privy to his deceit, accepts of, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooges him in his bed, but it proves a fatal night, for when <hi>Pacolet</hi> was aſleep, <hi>Adrimain</hi> charms all the houſe aſleep, and goes to <hi>Pacolet</hi>'s horſe and to the Lady <hi>Clerimund</hi>'s chamber, and ſet her on the horſe, and turning the pin, mounted in the air, and preſently arrives at King <hi>Trompart</hi>'s tent, who preſently call'd him to behold her, to his great joy, who would not ſtay there, but preſently carry hee to his own Country, ſo ſetting her on the wooden-horſe, ſhe being laſt aſleep turn'd the pin, mounted into the air, and before morn<g ref="char:EOLhyphen"/>ing an hundred miles off <hi>Aquitain,</hi> the horſe ſtopped in a Market-town near the King of <hi>Judea</hi>'s Court, the People ſeeing ſuch a ſtrange ſight were much amaz'd and carried the news to the King who ſent for them, and knew <hi>Trompart</hi> to be the Man which ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew his Brother, for which he cauſed his head to be ſmitten off; The Lady <hi>Clerimond</hi> was led into the Palace, where the King began to comfort her, and uſed her very courteouſly, being in love with her? But nothing could give her joy, but only the preſente of her <hi>Valentine,</hi> for whom ſhe wept ſorely, but at laſt ſhe count<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> is
+<pb facs="tcp:31444:10"/> madneſs, only to make the King leave his ſuit, who wearied her with his ſpeeches. But to return to <hi>Pacolet,</hi> who made great la<g ref="char:EOLhyphen"/>mentation for the loſs of the Lady <hi>Clerimond,</hi> and his horſe, at laſt he vow'd revenge on the Traytor <hi>Adrimain,</hi> and preſently he apparelled himſelf in Woman's habit, departs to <hi>Ferragus</hi>'s Camp and came to the Tent of <hi>Adrimain,</hi> who ſeeing ſuch a gallant Beauty, was amaz'd and fell in love with him, and perſwaded her to ſtay all night in his chamber, which <hi>Pacolet</hi> conſented to; ſo <hi>Adrimain</hi> went to bed and <hi>Pacolet</hi> ſeeing that, in<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ants him and the Hoſt aſleep, puts on <hi>Adrimain</hi>'s apparel, and with his ſword ſmote off his head; and then went to the tent of <hi>Ferragus</hi> whom he made leap out of bed, put on his cloaths and follow him into the City of <hi>Aquitan,</hi> where they ſecur'd him till morning; and then <hi>Pacolet</hi> bid 'em iſſue out and ſtay the whole Hoſt, they being aſleep, which they did, not leaving one to tell the dreadful tragedy of their Companions. In the morning <hi>Ferragus</hi> was brought before the Duke of <hi>Aquitan,</hi> and <hi>Orſon;</hi> they told him if he would forſake <hi>Mahomet</hi> and turn Chriſtian, they would ſave his life, but he would not conſent, ſo they preſently commanded his head to be ſtruck off. Now they reſolved to go to <hi>Conſtantinople,</hi> which was again beſieg'd by the Sarazens: the Lady <hi>Belliſant</hi> requiring the Duke of <hi>Aquitan</hi> to bear them company, ſo being ſhip'd, the wind ſerving, they ſoon landed near <hi>Conſtantinople,</hi> but could not come to the City; but <hi>Pacolet</hi> gave notice to the Emperour and King <hi>Pepin,</hi> that there was an Army arrived from the Duke of <hi>Aquitan,</hi> which would aſſail the Sarazens Camp in the night on one ſide, whilſt they iſſued out of the City on the other, which was to the total con<g ref="char:EOLhyphen"/>fuſſion of the Sarazens, who were all ſlain by break of day: And as ſoon as the Battle was finiſhed, the Emperour and King <hi>Pepin, Valentine</hi> and the Green Knight, took their way to the Sea-ſide to meet <hi>Belliſant;</hi> as ſoon as the Emperour ſaw her, he leapt off his horſe, and fell on his knees and imbraced her, intreating he a par<g ref="char:EOLhyphen"/>don for her heard uſage, whilſt ſhe for joy ſounded in his arms; but recovering her ſelf, they went to the Palace where no<g ref="char:EOLhyphen"/>thing but ſalutations paſs'd that day; and the Emperour did great honour to the Duke of <hi>Aquitan,</hi> and the Lady <hi>Fezon.</hi> But all this while <hi>Valentine</hi> did not ſee his of Sun Beauty, at which he much woundred; when all the Train were entred, and the ſalutations o<g ref="char:EOLhyphen"/>ver, <hi>Valentine</hi> calls <hi>Polet</hi> aſide, and enquires where he left the La<g ref="char:EOLhyphen"/>dy <hi>Clerimond;</hi> now began <hi>Pacolet</hi> for to fear to tell him of her loſs but <hi>Valentine</hi> being earneſt with him, he declared that ſhe was ſtoln
+<pb facs="tcp:31444:11"/> away by <hi>Adrimain,</hi> and carried away by King <hi>Trompart,</hi> upon his horſe; <hi>Valentine</hi> hearing this, could not chuſe but ſhed many tears in remembrance of his Lady, and reſolv'd to ſearch the whole World for her. But to leave him amidſt his ſorrows, let us return to King <hi>Pepin,</hi> who ſeeing all things in peace, took his leave of the Emperour and Empreſs, and <hi>Valentine;</hi> but <hi>Orſon</hi> he deſir'd to bear him company into <hi>France,</hi> which he did, where they were re<g ref="char:EOLhyphen"/>ceived with great joy, and they highly eſteemed and honoured <hi>Orſon,</hi> which much grieved <hi>Haufry</hi> and <hi>Henry,</hi> inſomuch that they plotted how to take away his life, and the execution of their deſign they committed to one of their Nephews, who was Vſher unto the King's privy chamber, his name was <hi>Granier,</hi> their deſign was to hire their Nephew to enter into the King's chamber in the night and murder him, and then to lay it on <hi>Orſon,</hi> who alone had charge of the King: The night was come wherein they deſign'd to finiſh their purpoſed treaſon, and <hi>Granier</hi> being hid in the Chamber, ri<g ref="char:EOLhyphen"/>ſes, and aſſays to cut the King's throat, but being afraid, he laid the knife down in the bed, and went his way and told <hi>Haufry</hi> and <hi>Henry</hi> what he had done, and ſaid he would accuſe <hi>Orſon</hi> with the laying it there, which would be enough to condemn him. The next day <hi>Granier</hi> ſaid unto the King, <q rend="inline">May it pleaſe your Majeſty: I will betray unto you, the Practiſer of your overthrow; <hi>Orſon</hi> in<g ref="char:EOLhyphen"/>tended to have murthered you in bed, and to that intent hath laid a knife therein: now if it pleaſe you to ſend and ſee, you'll find my words true. The King at this, enrag'd, ſaid, Falſe Tray<g ref="char:EOLhyphen"/>tor, can ſuch a thought enter into thy breaſt, who ſhall I truſt! ſeeing thou, whom I account as my Child, does prove a Tray<g ref="char:EOLhyphen"/>tor to me?</q> 
+                  <hi>Orſon</hi> being innocent, would have ſpoken, but the King would not ſuffer him, but called his Lords to be Eye-witneſ<g ref="char:EOLhyphen"/>ſes of this tragedy intended; coming to the King's bed-chamber, they uncover'd the bed, and found the knife, which drew great a<g ref="char:EOLhyphen"/>ſtoniſhment in them: The King preſently condemned <hi>Orſon</hi> to death; but by intreaty of the Lords, he was allowed the combat againſt <hi>Granier</hi> and his Brother, which combat was perform'd with much valour on both ſides, till <hi>Orſon</hi> had ſlain one of them, then the other being very weak, cry'd for quarter, and confeſs'd 'twas he that ſhould have kill'd the King; but before he could utter any more, <hi>Haufrey</hi> drew his ſword and cut off his head, for fear he ſhould betray them. The King was joyful for <hi>Orſon</hi>'s victory, and went to meet him before he came to the Palace, and did him great honour, and bid him have a care of <hi>Haufry</hi> and <hi>Henry,</hi> who
+<pb facs="tcp:31444:11"/> did all they could to deſtroy him all the Nobles rejoyc'd, for <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> loved <hi>Orſon.</hi> But <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> you have heard. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Se<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a ſhort time la<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> he could not hear of he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there: before he had <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> information was given to the King of <hi>Antioch,</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Chriſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ans were landed; which he immediately ſent for <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> was, That if any Chriſtian came, he muſt ei<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his faith, or fight with a dragon that re<g ref="char:EOLhyphen"/>main'd in a Forr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d by the City; which task <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ine wil<g ref="char:EOLhyphen"/>li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ly und<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>loo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d after much <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of blood, conquer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him, to his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>verlaſting ſame, for it cauſed the King of <hi>Antioch</hi> to turn Chriſtian, and all his Kingdom to be baptiz'd. But our noble Conqueror is not limited to one place, but he depar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s grievouſly afflicted for the lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of his Lady; but ſhortly after his departure, <hi>Brandiffer,</hi> a potent Monarch of the Turks, hearing of the King of <hi>Antioch</hi>'s converſion lands an Army o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a hundred thouſand Men, and put all to the ſword, took the King Priſoner, and put him to death, and crown'd himſelf King of <hi>Antioch;</hi> after that he departed toward his own Country, and, having a great ſtorm at Sea, was drove to <hi>Cretophe,</hi> a little City on the Coaſt of <hi>Greece,</hi> where by chance the Emperor and the Green Knight were; <hi>Brandiffer</hi>'s arrival being ſudden and unexpected, he ſurpriz'd them, and carried them Priſoners to a Caſtle of his which was invincible, to the great grief of the Empreſs and <hi>Orſon.</hi> In the mean time <hi>Valentine</hi> and <hi>Pacolet</hi> travelled thro' many ſtrange Countries, but could hear no tydings of the Lady <hi>Clerimond;</hi> at laſt they came to a ſtrong Caſtle, and deſires entrance, which was denied them by the Sentinel, who told them, that the Emperour of <hi>Greece</hi> and the Green Knight were Priſoners there, with twelve Peers of <hi>France,</hi> who were taken at <hi>Jeruſalem,</hi> being gone thither on Pil<g ref="char:EOLhyphen"/>grimage, and were betrayed by the treachery of <hi>Haufry</hi> and <hi>Hen<g ref="char:EOLhyphen"/>ry. Valentine</hi> hearing this, and ready to burſt with grief, the Caſtle being invincible, he departed and went to <hi>Angory,</hi> a City that had been taken from <hi>Brandiffer; Valentine</hi>'s arrival much re<g ref="char:EOLhyphen"/>joyced the wearied Citizens, who were quite tir'd with the daily a<g ref="char:EOLhyphen"/>larms of the Pagans: here <hi>Valentine</hi> fought many battels, and won much honour; and in one battle he took King <hi>Luca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Priſo<g ref="char:EOLhyphen"/>ner, by the policy of <hi>Pacolet,</hi> but this was the laſt piece of ſervice that he did <hi>Valentine,</hi> for King <hi>Lucar</hi> eſpying him in the hall where he was kept, ſtept to him and ſtabbed him, before <hi>Valentine</hi> could come to his ſuccour; <hi>Valentine</hi> enraged at this diſmal hap, began
+<pb facs="tcp:31444:12"/> thus, <q rend="inline">Falſe Traytor, thou haſt ſlain him who was all my hope, but thy life ſhall ſurely pay for it.</q> Then <hi>Valentine</hi> fell on the dead body, and lamented over it grievouſly. But <hi>Brandiffer</hi> hearing of King <hi>Lucar</hi>'s ſtate, ſeat a Meſſenger into the City to <hi>Valentine,</hi> to tell him that he ſhould have the King of <hi>France</hi> for his ranſom; which greatly contented <hi>Valentine:</hi> King <hi>Pepin</hi> be<g ref="char:EOLhyphen"/>ing ſafely arrived in <hi>Angory, Valentine</hi> did him great honour; and King <hi>Pepin</hi> declar'd to him how he was taken Priſoner at <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and had remained ever ſince Priſoner in the King of <hi>In<g ref="char:EOLhyphen"/>dia</hi>'s Court; and told him that the fair Lady <hi>Clerimond</hi> was Pri<g ref="char:EOLhyphen"/>ſoner there, who counterfited madneſs to avoid the Kings love. Now began <hi>Valentine</hi> to take courage again, after all theſe ſtorms fair weather begins to appear; now he's in hopes to bring his wiſhes to a good end, and cloſe up all his travels with a quiet life; he is reſolved to leave <hi>Angory,</hi> and in habit of a Pilgrim travel to the King of <hi>India</hi>'s Court, and there make known that he can cure mad and lunatick People, and all other diſeaſes. In the next Chapter you'll ſee how this device ſucceeded to his purpoſe.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>
+                  <hi>Chap.</hi> VIII. How <hi>Valentine</hi> in Pilgrim's Habit carried away the Lady <hi>Clerimond</hi> from the <hi>Indian</hi> Court; and how he took the ſtrong Caſtle where the Emperour and the Green Knight were Priſoners; and how <hi>Valentine,</hi> unfortunately and unknow, ſlew his own Father, and other Acts which endeth this Story.</head>
+               <p>
+                  <hi>VAlentine</hi> being arrived at the City where the King of <hi>Indian</hi> kept his Court, like a Phyſician takes up his lodging at an Inn in the Town: His Hoſt began to enquire of him what he was: <hi>Valentine</hi> told him he was a Phyſician that could cure all manner of diſeaſes, and therefore deſir'd him to ſet his Man go into the City and poſt up ſome Bills, that he might make known his are, whereby to get ſomewhat to defray his charges; which his Hoſt conſented to: The Man having done as he was appointed ſome of the Courtiers chanced to eſpy the Bills, and reading in ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that the Man could cure Madneſs, declares it to the King; preſently <hi>Va<g ref="char:EOLhyphen"/>lentine</hi> was ſent for, and the King call'd him aſide and declar'd to him, that he had in his Court a Lady that was lunatick whom if he would cure, he ſhould have a bountiful reward: <hi>Valentine</hi> at<g ref="char:EOLhyphen"/>tending on the King's tale, told him he would endeavour the re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oring the Lady to her ſenſes, <q rend="inline">Therefore, great Soveraign, cauſe a Fire to be made in her Chamber, and I'll be with her to
+<pb facs="tcp:31444:12"/> night, and uſe my Skill.</q> The King called one of his S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rvants to guide <hi>Valentine</hi> to the Lady's chamber, where he left him: The Lady <hi>Clerimnod</hi> beholding him, began to throw things at him; <hi>Valentine</hi> ſeeing her, ſaid, <q rend="inline">Alack, my dear Lady, you have bought me as dear as I have you; but now I hope to return to my Father's Court with you.</q> 
+                  <hi>Clerimond</hi> eying him, began to look ſtrangely, which cauſed <hi>Valentine</hi> to ſay <q rend="inline">Dear Love, I am thy <hi>Valentine,</hi> and for thee have ſuffered more torments that can be imagined; for the Love of thee have I travelled night and day.</q> When the Lady heard her true Love's Voyce, the inſtantly fell into a ſound, but being recover'd ſhe burſt forth into theſe ſpeeches. <q rend="inline"> Ah, my dear Love, and lovely <hi>Valentine,</hi> how many dangers have we paſſed thro'; I for the love of thee, and thou for me? And now, my dear Love, behold the extremity I have caſt my ſelf into, into what baſeneſs I have caſt my ſelf for thee; but Love dearly bought, they ſay, is the ſweeteſt.</q> After their kind ſalutations were paſt, ſhe ſhewed him <hi>Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t</hi>'s horſe which rejoy<g ref="char:EOLhyphen"/>ced his heart: <hi>Valentine</hi> then ſet <hi>Clerimond</hi> thereon, and turn<g ref="char:EOLhyphen"/>ing the Pin, they ſuddenly arrived in the City of <hi>Angory,</hi> to the unſpeakable joy of the Inhabitance. The next day they were married in as great ſolemnity as ſo ſhort a warning could afford; after dinner were exerciſed many paſtimes which laſtedt ill n ght, which cauſed theſe two incom<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>able Lovers to prepare for bed, where we'll leave them unto thoſe ſweet embraces enjoyed by Lu<g ref="char:EOLhyphen"/>vers: <hi>Valentine</hi> remained a month in <hi>Angory</hi> with his beloved Lady, and then thinking of his Father's Impriſonment, he reſol<g ref="char:EOLhyphen"/>ved to endeavour his releaſe by a cunning Plot, he will, like a Marchant, put forth ſhips well mann'd, and richly laden, and go to this Caſtle and proffer to ſell 'em to the Lady <hi>Galazy;</hi> with this reſolution he put to Sea, and in a ſhort time arrives at the Caſtle where he armed his Men privately, putting their Cloaths over their armour: So <hi>Valentine</hi> went out of his ſhip Marchant like, and coming to the gate the Porter ask'd him what he brought he cold him he had ſtore of Iewels aboard, and he deſir'd to know whe<g ref="char:EOLhyphen"/>ther the Lady of the Caſtle would make choice of any of them, the Porter went and inform'd his Lady, who ſent the Governour, with ſome Souldiers, to view them; being come into the ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ps, the Chriſtians, as <hi>Valentine</hi> had before commanded, ſlew them: then <hi>Valentine</hi> cauſed them to put on the Turks apparel, and to ſet forward to the Caſtle, carrying with them many Iewels; the Porter thinking them to be the Men of the Caſtle, let them paſs
+<pb facs="tcp:31444:13"/> in, where they ſlew all the Infidels, and broke open the doors till they came to the Lady <hi>Galazy</hi>'s chamber, and demanding the keys of the priſon; ſhe delivered them, wherewith they opened the Pri<g ref="char:EOLhyphen"/>ſon, releaſed the Emperour, the Green Knight, and the Peers of <hi>France.</hi> As ſoon as this enterprize was finiſh'd, <hi>Valentine</hi> ſail<g ref="char:EOLhyphen"/>ed to <hi>Angory,</hi> and left his Father, the Emperour, and the others, to take their reſt: The Emperour ſoon after hearing the City of <hi>Angor,</hi> was begut with <hi>brand-ſter</hi>'s Hoaſt, reſolved to leave the Caſtle, and to ſhip himſelf and ten thouſand Men, and being at Sea they engaged with a Fleet that was going to aid <hi>Brandiffer,</hi> and ſoon overcome them: The Emperour commanded his Men to put on the Pagans armour, that they might ſafely land; which ſtratagem prov'd fatal, as you ſhall hear; and juſt as they arrived, <hi>Orſon,</hi> attended with one hundred valiant Knights, came into the Port alſo, to the great joy of the Emperour: Now the Chriſti<g ref="char:EOLhyphen"/>ans in <hi>Angory,</hi> for want of proviſions, reſolved to give the Pa<g ref="char:EOLhyphen"/>gans battle: and ſo were devided into ten Bands, led by ten vali<g ref="char:EOLhyphen"/>ant Captains, whoſe courage and conduct added valour to all the o<g ref="char:EOLhyphen"/>thers. The Pagans knowing their deſign, put themſelves into fifteen bands, ſtanding in battle-array; the Chriſtians iſſuing ſud<g ref="char:EOLhyphen"/>denly out of the City, preſently put all in confuſion, reſolving to die or conquer; great courage was ſhewed on both ſides. <hi>Valen<g ref="char:EOLhyphen"/>tine</hi> ſlew a Pagan Commander at the firſt onſet; and meeting the <hi>Indian</hi> King unhorſed him, and had he not been reſcued by his Followers, he had loſt his life by <hi>Valentine</hi>'s keen ſword: and if freſh Succours had not come, the Pagans had been put to flight, which renew'd the fight, ſo that the air was darkned with the ſmoke, and nothing was heard but cries and confuſion of voices; but on a ſudden news came that a great Fleet of Sarazens were ar<g ref="char:EOLhyphen"/>rived at the Port, and juſt landing. <hi>Valentine</hi> hearing this made great haſt to the Port with a ſelect Party to ſtrengthen the Guard there, (but little need was there of it, for theſe were Chriſtians commanded by the Emperour, his Father, joyned by his Son <hi>Orſon</hi> and his Knights;) <hi>Valentine</hi> being ignorant who they were, charged them furiouſly, and the firſt that he engaged he run quite thro' the body, which unfortunately was the Emperour. <hi>Orſon</hi> ſeeing his Father ſlain, began to weep, and knowing <hi>Valentine</hi> by his armour, ſaid to him, <q rend="inline">Alas, Brother <hi>Valentine,</hi> here's ſmall conqueſt in this, for you have ſlain your Father.</q> 
+                  <hi>Valentine</hi> hear<g ref="char:EOLhyphen"/>ing this, broke out in ſuch a grievous lamentation, that it grieved all his Followers to hear him, <q rend="inline">Alas, quoth he, what an infamous
+<pb facs="tcp:31444:13"/> deed have I done? What a wicked act have I committed? I have ſpent my life in trouble and now have added murther to my other ſins.</q> 
+                  <hi>Orſon</hi> ſeeing him thus lament, comforted him, and deſired him to go with his Army to the battle, for the Pagans in his abſence had prevailed. At laſt <hi>Valentine</hi> being ſet on his horſe flew like a lion into the midſt of the battle, and meeting a Pagan Prince, run his ſword thro' his body, and being careleſs of his life, proceeded on till he came where <hi>Brandiſſer</hi> was making havock of the Chriſtians, he ruſhed ſo fiercely on him, that he ſtruck him to the ground, and with his ſword clove his head: The Pagans ſeeing their Generals ſlain, and ſome began to flie, founded a re<g ref="char:EOLhyphen"/>treat; the Chriſtians greedy of their blood, purſuing, ſlew many thouſands, others leap'd into the Sea and were drowned, leaving the Chriſtians a compleat victory, who immediately returned into the City, where was great lamentation made for the unfortunate death of the Emperour of <hi>Conſtantinople,</hi> where he was nobly bu<g ref="char:EOLhyphen"/>ried But <hi>Valentine</hi> refuſed all comfort, and who was as a Man out of his wits. As ſoon as they had ſetled the affairs in <hi>Angory,</hi> they crowned the Green Knight King thereof, who had in the battle valiantly ſlain ſeveral Pagan Commanders, and then departed to<g ref="char:EOLhyphen"/>wards the City of <hi>Conſtantinople.</hi> In the mean time great troubles aroſe in <hi>France;</hi> King <hi>Pepin</hi> being arrived there, and the twelve Peers of <hi>France,</hi> from the ſtrong Caſtle where they had been Pri<g ref="char:EOLhyphen"/>ſoners, <hi>Ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fry</hi> and <hi>Henry</hi> begin to plot the death of the King and Queen, and their young Son <hi>Charl main,</hi> whom the King had made Heir of the Crown and Kingdom: to bring this th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r devil<g ref="char:EOLhyphen"/>iſh deſign to paſs, they invite the King and Queen, and their Son to a rich banquet, but <hi>Charlemain,</hi> came not; in the midſt of the banquet they fill'd a cup of deadly poyſon and gave it to thy King, and the King dr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nk to the Queen, but the poyſon wrought ſo in their bodies, that they fell down dead of the t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter that they ſeized on all the ſtrong Caſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es and C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttes, but could not find the young Prince <hi>Charlemain,</hi> who was under his Siſter's protection; whereupon having aid from the King of <hi>England,</hi> ſhe fought ma<g ref="char:EOLunhyphen"/>ny battles ſucceſsfully againſt <hi>Ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fry</hi> and <hi>Henry,</hi> till they were both ſlain and <hi>Charlemain</hi> was crowned King, to the great joy of the whole Kingdom, for he eminently ſhewed forth his Father's vertues. In the mean time our Royal Train arrive at <hi>Conſtantinople</hi> to the ex<g ref="char:EOLhyphen"/>ceeding joy of the Empreſs <hi>Belliſant,</hi> and the whole City, but when ſhe heard that her Husband the Emperour was ſlaine <hi>Valen<g ref="char:EOLhyphen"/>tine</hi> and <hi>Orſon,</hi> byh e conſent of her and the whole Nation, we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e
+<pb facs="tcp:31444:14"/> crowned Ioynt-Emperours: but <hi>Valentine</hi> calling to mind his for<g ref="char:EOLhyphen"/>mer ſin, in killing his Royal Father, reſolved to go on Pilgri<g ref="char:EOLhyphen"/>mage; and calling his Lady aſide, he declared to her his intent, and broke a Ring in twain, and charged her not to marry until ſhe ſaw that piece of the Ring again, and ſaid, if he did not bring it himſelf, he would ſend it when he died, having ſo ſaid, with tears they parted: Long time he travelled, lying in the woods, caves and rocks, enduring great hardſhip; and at laſt he returned again towards <hi>Conſtantinople,</hi> where he arriving, begged about the Ci<g ref="char:EOLhyphen"/>ty, and came to his Brother <hi>Orſon</hi>'s Palace, and craved there a lodging under a pair of ſtairs, where he lay the term of ſeven years, eating nothing but ſcraps which were daily brought him in a basket (being unknown who he was) at length his time of death growing nigh, he falling into a deadly feavour, wrote a letter putting his name thereto, holding it faſt when he died: When <hi>Orſon</hi> ſaw the poor Pilgrim was dead, he commanded the letter to be taken from him that he held in his hand but none cou'd take it but the Lady <hi>Clerimond,</hi> who reading the ſame, fell in a ſwound upon the dead body, lamenting over it. And after that great preparation was made for the funeral, and his body was enterred with all honour due to ſo noble a Warriour. <hi>Orſon</hi> lives long after with his Wife the fair Lady <hi>Galazy,</hi> (whom he married after the death of the Lady <hi>Fezon,</hi>) adminiſtring Iuſtice to all; and was greatly beloved of all his Subjects.</p>
+            </div>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:31444:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
